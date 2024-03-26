@@ -1,0 +1,19 @@
+#products-section {
+    background-image: url(https://static1.hkrtcdn.com/mbnext/static/media/common/best-selling-desktop-be.svg);
+    background-size: cover;
+    background-size: 100%;
+  }
+.priceContainerPadding{
+    padding: '0rem 1rem' 
+}
+.producttitlesize {
+    font-size: 2rem;
+  }
+  
+  @media screen and (max-width: 380px) {
+    .producttitlesize {
+      font-size: 20px;
+    }
+  }
+  
+  
